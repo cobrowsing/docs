@@ -1,0 +1,2 @@
+# docs
+cobrowsing documentation
