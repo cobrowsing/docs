@@ -1,3 +1,5 @@
+![cobrowsing.png](https://logo.cobrowsing.io/1/cover.png)
+
 ## Welcome to cobrowsing.io
 
 Cobrowsing (short for collaborative browsing), in the context of web browsing, is the joint navigation through the World Wide Web by two or more people accessing the same web page at the same time
